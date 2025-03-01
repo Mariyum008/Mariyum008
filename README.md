@@ -55,4 +55,5 @@ Aspiring software developer eager to leverage technical expertise in web develop
 
 ---
 
-Now your **skills section is in a table**, making it **structured and readable**, while the rest of the resume remains in a clean, professional format. Let me know if you want any more tweaks! 🚀
+📊 GitHub Analytics 
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MariyumSiddique&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariyumSiddique&layout=compact&theme=radical" alt="Top Languages" height="160"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariyumSiddique&theme=radical" alt="GitHub Streak" height="160"/> </p>
