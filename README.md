@@ -1,7 +1,3 @@
-Got it! Here's your resume with a **table only for the skills section** while keeping the rest in its original format.  
-
----
-
 # **MARIYUM SIDDIQUE**  
 **Software Developer**  
 
