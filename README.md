@@ -56,4 +56,4 @@ Aspiring software developer eager to leverage technical expertise in web develop
 ---
 
 📊 GitHub Analytics 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MariyumSiddique&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariyumSiddique&layout=compact&theme=radical" alt="Top Languages" height="160"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariyumSiddique&theme=radical" alt="GitHub Streak" height="160"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mariyum008&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyum008&layout=compact&theme=radical" alt="Top Languages" height="160"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariyum008&theme=radical" alt="GitHub Streak" height="160"/> </p>
