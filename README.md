@@ -3,7 +3,7 @@
 
 📩 **Email**: [mariyumsiddique02@gmail.com](mailto:mariyumsiddique02@gmail.com)  
 🔗 **LinkedIn**: [linkedin.com/in/mariyum-siddique](https://www.linkedin.com/in/mariyum-siddique)  
-💻 **GitHub**: [github.com/MariyumSiddique](https://github.com/MariyumSiddique)  
+💻 **GitHub**: [github.com/Mariyum008](https://github.com/Mariyum008)  
 
 ---
 
@@ -61,10 +61,10 @@ Aspiring software developer with a strong foundation in web development, artific
 
 ## **📊 GitHub Analytics**
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=MariyumSiddique&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariyumSiddique&layout=compact&theme=radical" alt="Top Languages" height="160"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Mariyum008&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mariyum008&layout=compact&theme=radical" alt="Top Languages" height="160"/> 
 </p> 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariyumSiddique&theme=radical" alt="GitHub Streak" height="160"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mariyum008&theme=radical" alt="GitHub Streak" height="160"/> 
 </p>
 
